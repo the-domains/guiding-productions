@@ -1,0 +1,29 @@
+name: Guiding Productions
+favicon: null
+layout_spectrum: 0.6986544448882341
+typography_spectrum: 0.595839079702273
+title: Guiding Productions
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7085893990006298
+  lightness: 0.18819443276152015
+  saturation: 0.9321445627138019
+  rhythmicContrast: 0.12279929197393358
+purpose: []
